@@ -1,2 +1,2 @@
 # leecode.py
-leecode刷题(python)
+leecode for python
